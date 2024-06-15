@@ -1,6 +1,6 @@
 # Lemmmy [![Donate on PayPal](https://img.shields.io/badge/PayPal-Donate-0079C1?logo=paypal&style=for-the-badge)](https://paypal.me/lemmmy) ![GitHub Sponsors](https://img.shields.io/github/sponsors/Lemmmy?logo=github&style=for-the-badge)
 
-### Music
+#### Music
 
 [Website](https://lemmmy.me/#music) &middot; [Direct downloads](https://music.lemmmy.me/) &middot; [Spotify](https://open.spotify.com/artist/3E9BfUtHylafgeCDRapYKZ) &middot; [Apple Music](https://music.apple.com/artist/1599314776) &middot; [Bandcamp](https://lemmmy.bandcamp.com/) &middot; [Soundcloud](https://soundcloud.com/epicidity) &middot; [YouTube](https://www.youtube.com/channel/UCbdhZc7adn0F3lwJd_TsbQA) &middot; [Deezer](https://www.deezer.com/en/artist/153858422) &middot; [Twitch](https://twitch.tv/lemmmy_)
 
